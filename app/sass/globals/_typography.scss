@@ -1,0 +1,48 @@
+body {
+    font-family: var(--ff-main);
+    font-size: var(--fs-main);
+}
+header {
+    h1 {
+        color: var(--magenta);
+        font-weight: var(--fw-700);
+    }
+    p {
+        color: var(--dark-gray);
+    }
+}
+aside {
+    div {
+        background-color: var(--light-gray);
+        color: var(--magenta);
+        font-weight: var(--fw-500);
+        text-align: center;
+    }
+}
+main {
+    .card {
+        background-color: var(--magenta);
+        color: var(--white-00);
+        line-height: 1.2;
+
+        .card-top {
+
+            font-size: var(--fs-main);
+            font-weight: var(--fw-700);
+        }  
+    }
+}
+footer {
+    .attribution {
+        font-size: 14px;
+        text-align: center;
+      }
+      .attribution a {
+        color: var(--magenta);
+
+        &:hover {
+            color: var(--pink);
+            cursor: pointer;
+        }
+      }
+}
