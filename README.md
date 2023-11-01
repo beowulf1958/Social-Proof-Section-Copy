@@ -35,8 +35,6 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -64,8 +62,6 @@ Got to brush up on grid-areas. It is a nice way to layout, but does not behave t
 ### Continued development
 
 Continue on refining the organization of the Sass.
-
-### Useful resources
 
 ## Author
 
